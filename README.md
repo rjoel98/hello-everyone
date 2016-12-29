@@ -1,5 +1,4 @@
 # hello-everyone
-Just another repository 
 
 Hey,
 
